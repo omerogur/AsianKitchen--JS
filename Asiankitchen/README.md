@@ -1,6 +1,7 @@
 
  # Asian Kitchen's Menu
-
+ app.js ile dinamik olarak tasarlanıp dışarıdan gelen farklı bir veri setine kolayca entegre edilebilir.
+ app.js2 ile istenilen veri seti için  tasarlanmıştır.
  <img class="photo" src="images/ss.png"/>
 
 
