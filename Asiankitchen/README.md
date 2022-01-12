@@ -3,6 +3,9 @@
 
  <img class="photo" src="images/ss.png"/>
 
+
+
+
 1.Sitedeki içerik JavaScript'te menu şeklinde bir dizi içinde objeler olarak tanımlanacak.
 2.Id, title, category, price, img ve desc bölümleri olacak.
 3.İçeriği istediğiniz gibi değiştirebilirsiniz yalnız değiştirirken kategori isimlerine ekstra dikkat edin.
